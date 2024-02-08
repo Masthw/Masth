@@ -3,7 +3,7 @@
 
 ## Português
 
-Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia, com cerca de 5 meses de experiência profissional na área e 2 anos de estudos dedicados. Possuo habilidades sólidas em desenvolvimento web utilizando HTML, CSS e JavaScript, além de experiência em frameworks como React.js. Também sou proficientes em C#, Flutter e SQL. Estou sempre buscando aprender mais e enfrentar novos desafios. Além disso, possuo um nível avançado de inglês.
+Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia, com cerca de 5 meses de experiência profissional na área e 2 anos de estudos dedicados. Possuo habilidades sólidas em desenvolvimento web utilizando HTML, CSS e JavaScript, além de experiência em frameworks como React.js. Também sou proficiente em C#, Flutter e SQL. Estou sempre buscando aprender mais e enfrentar novos desafios. Além disso, possuo um nível avançado de inglês.
 
 ### Tecnologias que domino:
 
